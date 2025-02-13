@@ -1,5 +1,5 @@
 ## Hi 👋 my name is Jin Lee and I am a passionate Software Engineer
-I'm a software developer who loves to create tools and full-stack websites that solve interesting problems.  
+I'm a software developer who loves to create tools and websites that solve interesting problems.  
 
 <!--
 **jlee927/jlee927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
