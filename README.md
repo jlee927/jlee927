@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Jin Lee
+## Hi 👋 my name is Jin Lee and I am a passionate Software Engineer
 
 <!--
 **jlee927/jlee927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
